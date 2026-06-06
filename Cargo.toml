@@ -1,0 +1,7 @@
+[package]
+name = "oxide-pipeline"
+version = "0.1.0"
+edition = "2021"
+description = "Experiment: full 5-layer pipeline simulation. Intent→pincher→flux→cuda-oxide→cudaclaw end-to-end with conservation verification at each stage."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/oxide-pipeline"
